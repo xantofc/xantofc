@@ -21,27 +21,23 @@
 <h3 align="center">🚀 Coding Mastery Levels 📈</h3>
 
 <p>
-  <strong>Python</strong>      <br>
+  <strong>Python</strong>
   <span style="font-family: monospace;">██████████ 90% (Classic but gold) ✨</span>
 </p>
-
 <p>
-  <strong>JavaScript</strong>  <br>
+  <strong>JavaScript</strong>
   <span style="font-family: monospace;">████████░░ 80% (For when I feel fancy) 📜</span>
 </p>
-
 <p>
-  <strong>C++</strong>          <br>
+  <strong>C++</strong>
   <span style="font-family: monospace;">███████░░░ 70% (My coding soulmate) ⚡</span>
 </p>
-
 <p>
-  <strong>C</strong>            <br>
+  <strong>C</strong> 
   <span style="font-family: monospace;">█████░░░░░ 60% (Where speed meets control) 🚀</span>
 </p>
-
 <p>
-  <strong>Dart</strong>         <br>
+  <strong>Dart</strong>
   <span style="font-family: monospace;">████░░░░░░ 40% (Darting through projects!) 🎯</span>
 </p>
 
