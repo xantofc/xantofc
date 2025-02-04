@@ -28,17 +28,6 @@ Dart        ████░░░░░░  40%  (Darting through projects!) �
 
 (Yes, these stats are 100% scientific. Probably.)
 
-<h3 align="left">🔗 Connect with Me</h3>
-<p align="left">
-  <a href="mailto:xanto.fc@gmail.com" target="_blank">📧 Email</a> |
-  <a href="https://www.linkedin.com" target="_blank">💼 LinkedIn (Coming Soon)</a> |
-  <a href="https://twitter.com" target="_blank">🐦 Twitter (Coming Soon)</a>
-</p>
-
----
-
-<h3 align="left">🛠️ Languages & Tools</h3>
-
 <table>
   <tr>
     <td align="center">
@@ -170,9 +159,3 @@ Dart        ████░░░░░░  40%  (Darting through projects!) �
   </tr>
 </table>
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xantofc&show_icons=true&locale=en&layout=compact" alt="xantofc" />
-</p>
