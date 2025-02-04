@@ -18,81 +18,32 @@
 - ⚡ Fun fact **My code works perfectly… until someone is watching. 👀💻**
 
 ```
-
 <h3 align="center">🚀 Coding Mastery Levels 📈</h3>
 
-<div style="font-family: monospace; line-height: 1.6;">
+<p>
+  <strong>Python</strong>      <br>
+  <span style="font-family: monospace;">██████████ 90% (Classic but gold) ✨</span>
+</p>
 
-  <div>
-    <strong>Python</strong>
-    <div style="background: #ddd; border-radius: 5px; overflow: hidden; width: 100%;">
-      <div style="width: 90%; background: #4caf50; height: 20px; animation: fillPython 2s ease-in-out forwards;"></div>
-    </div>
-    (Classic but gold) ✨
-  </div>
+<p>
+  <strong>JavaScript</strong>  <br>
+  <span style="font-family: monospace;">████████░░ 80% (For when I feel fancy) 📜</span>
+</p>
 
-  <div>
-    <strong>JavaScript</strong>
-    <div style="background: #ddd; border-radius: 5px; overflow: hidden; width: 100%;">
-      <div style="width: 80%; background: #f0db4f; height: 20px; animation: fillJS 2.5s ease-in-out forwards;"></div>
-    </div>
-    (For when I feel fancy) 📜
-  </div>
+<p>
+  <strong>C++</strong>          <br>
+  <span style="font-family: monospace;">███████░░░ 70% (My coding soulmate) ⚡</span>
+</p>
 
-  <div>
-    <strong>C++</strong>
-    <div style="background: #ddd; border-radius: 5px; overflow: hidden; width: 100%;">
-      <div style="width: 70%; background: #00599c; height: 20px; animation: fillCPP 3s ease-in-out forwards;"></div>
-    </div>
-    (My coding soulmate) ⚡
-  </div>
+<p>
+  <strong>C</strong>            <br>
+  <span style="font-family: monospace;">█████░░░░░ 60% (Where speed meets control) 🚀</span>
+</p>
 
-  <div>
-    <strong>C</strong>
-    <div style="background: #ddd; border-radius: 5px; overflow: hidden; width: 100%;">
-      <div style="width: 60%; background: #a8b9cc; height: 20px; animation: fillC 3.5s ease-in-out forwards;"></div>
-    </div>
-    (Where speed meets control) 🚀
-  </div>
-
-  <div>
-    <strong>Dart</strong>
-    <div style="background: #ddd; border-radius: 5px; overflow: hidden; width: 100%;">
-      <div style="width: 40%; background: #0175c2; height: 20px; animation: fillDart 4s ease-in-out forwards;"></div>
-    </div>
-    (Darting through projects!) 🎯
-  </div>
-
-</div>
-
-<!-- Inline CSS for Animation -->
-<style>
-  @keyframes fillPython {
-    from { width: 0; }
-    to { width: 90%; }
-  }
-
-  @keyframes fillJS {
-    from { width: 0; }
-    to { width: 80%; }
-  }
-
-  @keyframes fillCPP {
-    from { width: 0; }
-    to { width: 70%; }
-  }
-
-  @keyframes fillC {
-    from { width: 0; }
-    to { width: 60%; }
-  }
-
-  @keyframes fillDart {
-    from { width: 0; }
-    to { width: 40%; }
-  }
-</style>
-
+<p>
+  <strong>Dart</strong>         <br>
+  <span style="font-family: monospace;">████░░░░░░ 40% (Darting through projects!) 🎯</span>
+</p>
 
 ```plaintext
 (Yes, these stats are 100% scientific. Probably.)
