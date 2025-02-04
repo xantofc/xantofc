@@ -106,9 +106,6 @@ Tailwind CSS   █████████░░░░░░░░░░░░�
     <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="Svelte" width="30" height="30"/>
     </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="30" height="30"/>
-    </td>
   </tr>
 </table>
 
