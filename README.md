@@ -5,22 +5,15 @@
   <img src="https://komarev.com/ghpvc/?username=xantofc&label=Profile%20views&color=0e75b6&style=flat" alt="xantofc" />
 </p>
 
-
 ```plaintext
 > Welcome to my terminal-inspired GitHub profile!
-
 - 🌱 I’m currently learning **C++, Dart**
-
 - 💬 Ask me about **Python, Microcontrollers**
-
 - 📫 How to reach me **xanto.fc@gmail.com**
-
 - ⚡ Fun fact **My code works perfectly… until someone is watching. 👀💻**
 
 ```
-```plaintext
 ## ⚡ My Coding Superpowers
-```
 ```plaintext
 C              ██████████████████░░░░░░░░░░░░  60%  (Where speed meets control 🚀)
 C++            █████████████████████░░░░░░░░░  70%  (My coding soulmate ⚡)
