@@ -44,132 +44,73 @@ Tailwind CSS   █████████░░░░░░░░░░░░�
 <table align="center" width="100%">
   <tr>
     <td align="center" width="20%">
-      <a href="https://developer.android.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="30" height="30"/>
-      </a>
-      <br>Android
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30"/>
     </td>
     <td align="center" width="20%">
-      <a href="https://www.arduino.cc/" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="30" height="30"/>
-      </a>
-      <br>Arduino
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/>
     </td>
     <td align="center" width="20%">
-      <a href="https://www.cprogramming.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30"/>
-      </a>
-      <br>C
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
     </td>
     <td align="center" width="20%">
-      <a href="https://www.w3schools.com/cpp/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/>
-      </a>
-      <br>C++
+      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="30" height="30"/>
     </td>
     <td align="center" width="20%">
-      <a href="https://www.w3schools.com/cs/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30"/>
-      </a>
-      <br>C#
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://dart.dev" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="30" height="30"/>
-      </a>
-      <br>Dart
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="30" height="30"/>
     </td>
     <td align="center">
-      <a href="https://flutter.dev" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="30" height="30"/>
-      </a>
-      <br>Flutter
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30"/>
     </td>
     <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
-      </a>
-      <br>JavaScript
+      <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="30" height="30"/>
     </td>
     <td align="center">
-      <a href="https://nodejs.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="30" height="30"/>
-      </a>
-      <br>Node.js
+      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="30" height="30"/>
     </td>
     <td align="center">
-      <a href="https://www.python.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
-      </a>
-      <br>Python
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30"/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30"/>
-      </a>
-      <br>MySQL
+      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="30" height="30"/>
     </td>
     <td align="center">
-      <a href="https://www.sqlite.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="30" height="30"/>
-      </a>
-      <br>SQLite
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="30" height="30"/>
     </td>
     <td align="center">
-      <a href="https://www.postgresql.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="30" height="30"/>
-      </a>
-      <br>PostgreSQL
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/>
     </td>
     <td align="center">
-      <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/>
-      </a>
-      <br>Git
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="30"/>
     </td>
     <td align="center">
-      <a href="https://www.linux.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="30"/>
-      </a>
-      <br>Linux
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="30" height="30"/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="30" height="30"/>
-      </a>
-      <br>Illustrator
+      <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="30" height="30"/>
     </td>
     <td align="center">
-      <a href="https://www.photoshop.com/en" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="30" height="30"/>
-      </a>
-      <br>Photoshop
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="30" height="30"/>
     </td>
     <td align="center">
-      <a href="https://ionicframework.com" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="Ionic" width="30" height="30"/>
-      </a>
-      <br>Ionic
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="Ionic" width="30" height="30"/>
     </td>
     <td align="center">
-      <a href="https://svelte.dev" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="Svelte" width="30" height="30"/>
-      </a>
-      <br>Svelte
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="Svelte" width="30" height="30"/>
     </td>
     <td align="center">
-      <a href="https://tailwindcss.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="30" height="30"/>
-      </a>
-      <br>Tailwind CSS
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="30" height="30"/>
     </td>
   </tr>
 </table>
+
 
 
