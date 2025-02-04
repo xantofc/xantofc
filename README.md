@@ -18,7 +18,9 @@
 - ⚡ Fun fact **My code works perfectly… until someone is watching. 👀💻**
 
 ```
-
+```plaintext
+## ⚡ My Coding Superpowers
+```
 ```plaintext
 C              ██████████████████░░░░░░░░░░░░  60%  (Where speed meets control 🚀)
 C++            █████████████████████░░░░░░░░░  70%  (My coding soulmate ⚡)
