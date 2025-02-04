@@ -17,31 +17,12 @@
 
 - ⚡ Fun fact **My code works perfectly… until someone is watching. 👀💻**
 
-```
-<h3 align="center">🚀 Coding Mastery Levels 📈</h3>
+Python      ███████████████████████████████░░  90%  (Classic but gold) ✨
+JavaScript  ██████████████████████████████░░░  80%  (For when I feel fancy) 📜
+C++         █████████████████████████████░░░░  70%  (My coding soulmate) ⚡
+C           ███████████████████████████░░░░░░  60%  (Where speed meets control) 🚀
+Dart        █████████████████████████░░░░░░░░  40%  (Darting through projects!) 🎯
 
-<p>
-  <strong>Python</strong>
-  <span style="font-family: monospace;">██████████ 90% (Classic but gold) ✨</span>
-</p>
-<p>
-  <strong>JavaScript</strong>
-  <span style="font-family: monospace;">████████░░ 80% (For when I feel fancy) 📜</span>
-</p>
-<p>
-  <strong>C++</strong>
-  <span style="font-family: monospace;">███████░░░ 70% (My coding soulmate) ⚡</span>
-</p>
-<p>
-  <strong>C</strong> 
-  <span style="font-family: monospace;">█████░░░░░ 60% (Where speed meets control) 🚀</span>
-</p>
-<p>
-  <strong>Dart</strong>
-  <span style="font-family: monospace;">████░░░░░░ 40% (Darting through projects!) 🎯</span>
-</p>
-
-```plaintext
 (Yes, these stats are 100% scientific. Probably.)
 ```
 <h3 align="center">🛠️ Languages & Tools</h3>
