@@ -5,7 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=xantofc&label=Profile%20views&color=0e75b6&style=flat" alt="xantofc" />
 </p>
 
----
 
 ```plaintext
 > Welcome to my terminal-inspired GitHub profile!
@@ -27,7 +26,7 @@ C           ██████░░░░  60%  (Where speed meets control) �
 Dart        ████░░░░░░  40%  (Darting through projects!) 🎯
 
 (Yes, these stats are 100% scientific. Probably.)
-
+```
 <table>
   <tr>
     <td align="center">
